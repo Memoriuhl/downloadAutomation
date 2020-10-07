@@ -39,11 +39,11 @@ folder_exts = [docu_ext, pic_ext,vid_ext,music_ext]
 
 # These are the paths to each specific folder. More can be added if needed.
 
-downloads_PATH = r'C:\Users\best.jonathan\Downloads' # Downloads folder default path
-documents_PATH = r'C:\Users\best.jonathan\Documents'
-pictures_PATH = r'C:\Users\best.jonathan\Pictures'
-videos_PATH = r'C:\Users\best.jonathan\Videos'
-music_PATH = r'C:\Users\best.jonathan\Music'
+downloads_PATH = r'<insert PATH>' # Downloads folder default path
+documents_PATH = r'<insert PATH>'
+pictures_PATH = r'<insert PATH>'
+videos_PATH = r'<insert PATH>'
+music_PATH = r'<insert PATH>'
 folder_PATH = [documents_PATH,pictures_PATH,videos_PATH,music_PATH]
 
 # This tells the observer which folder to watch (downloads) and starts the observer.
